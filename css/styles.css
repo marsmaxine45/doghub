@@ -1,0 +1,51 @@
+#projects li.project {
+    border: 1px solid black;
+    width: 200px;
+    float: left;
+    margin-right: 3%;
+    border-radius:2%;
+    
+}
+
+.aboutProject{
+    padding:0 1%;
+}
+
+li{
+    list-style: none;
+}
+
+h4{
+    background: green;
+    height: 50px;
+    color: white;
+    text-align: center;
+    margin-top: 0;
+
+}
+
+/*styling profile picture*/
+
+.profilePicture img {
+    width: 124px;
+    height: 124px;
+    border-radius: 72px;
+    float: left;
+    margin-right: 32px;
+}
+
+
+/*styling the profile*/
+
+div#profileContainer {
+    float: none;
+    height: 184px;
+    padding: 3% 5%;
+    /* border-bottom: 1px solid gray; */
+}
+
+li.project img {
+    width: 198px;
+    height: 128px;
+    /* border-radius: 72px;
+}
